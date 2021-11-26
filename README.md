@@ -15,6 +15,7 @@ Also I have an interested in Web Product Manager to make better products! and of
 
 <hr/>
 ### Profile
+
 👶 1995-11-16
 👩‍🎓 Graduated Bachelor of Science in Information Technology (2016-2020) in SISC, Manila, Philippines 
 📧 minzigom@gmail.com
