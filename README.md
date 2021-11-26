@@ -1,4 +1,4 @@
-Hello guys!
+🙋‍♀️Hello guys!
 I'm Minji, Seo. Front-End Developer using React.
 
 I started web as a Web UI/UX Designer / Web publisher at first, now I'm doing React as a Web Developer.
@@ -16,7 +16,7 @@ Also I have an interested in Web Product Manager to make better products! and of
 
 <hr/>
 
-### 🙋‍♀️Profile
+### 👩Profile
 
 👶 1995-11-16 <br/>
 👩‍🎓 Graduated Bachelor of Science in Information Technology (2016-2020) in SISC, Manila, Philippines  <br/>
