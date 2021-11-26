@@ -23,7 +23,7 @@ Also I have an interested in Web Product Manager to make better products! and of
 
 ### Representative Website work
 
-* Publishing
+* Publishing <br/>
 <a href="https://www.seegene.co.kr/mobilestation">Seegene : Mobile Station</a> (2021-06 ~ 2021-07)
 
 
