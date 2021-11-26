@@ -22,10 +22,10 @@ Also I have an interested in Web Product Manager to make better products! and of
 📧 minzigom@gmail.com <br/>
 
 ### Representative Website work
+<a href="http://www.daelimmuseum.org/guseulmoa/index.do">Daelim Museum : guseulmoa</a> <br/>
+<a href="https://www.seegene.co.kr/mobilestation">Seegene : Mobile Station</a><br/>
+<a href="http://hanwhamna.com/">hanwha M&A</a><br/>
 
-<a href="https://www.seegene.co.kr/mobilestation">Seegene : Mobile Station</a> (2021-06 ~ 2021-07 : zero to 100%)<br/>
-<a href="http://aatest.co.kr/#3rdPage">Korean Aptitude Testing Service</a> (2020-10 - 2021-01 : mobile 80%)<br/>
-<a href="http://kiba-union.com/">kiba Ai Bacuk cafe</a> (2020-11 - 2021-11 : zero to 90% )<br/>
 <br/>
 <a href="http://mingdiseloper.dothome.co.kr/works.php">see other works</a>
 
