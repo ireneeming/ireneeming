@@ -14,7 +14,8 @@ Also I have an interested in Web Product Manager to make better products! and of
 <a href="https://aback-shock-0a7.notion.site/99-99-4-f9fba3a799654a20aa09c30551669eb7" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 
 <hr/>
-###  Profile
+
+### Profile
 
 👶 1995-11-16
 👩‍🎓 Graduated Bachelor of Science in Information Technology (2016-2020) in SISC, Manila, Philippines 
