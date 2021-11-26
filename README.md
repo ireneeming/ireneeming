@@ -24,6 +24,7 @@ Also I have an interested in Web Product Manager to make better products! and of
 ### Representative Website work
 
 * Publishing <br/>
-<a href="https://www.seegene.co.kr/mobilestation">Seegene : Mobile Station</a> (2021-06 ~ 2021-07)
+<a href="https://www.seegene.co.kr/mobilestation">Seegene : Mobile Station</a> (2021-06 ~ 2021-07 : zero to 100%)
+<a href="https://www.notion.so/Irene-41aebcfdec394eef9b54a3a30e9620a2">see more details</a>
 
 
