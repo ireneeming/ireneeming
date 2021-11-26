@@ -1,3 +1,3 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=Transparent&color=fce9e9&height=100&section=header&text=Hello%20mingure&fontSize=40&fontColor=bbb)
+![header](https://capsule-render.vercel.app/api?type=transparent&amp;fontColor=703ee5&amp;text=Transparent&amp;height=150&amp;fontSize=60&amp;desc=Only%20Use%20Text&amp;descAlignY=75&amp;descAlign=60)
