@@ -25,8 +25,6 @@ Also I have an interested in Web Product Manager to make better products! and of
 * <a href="http://www.daelimmuseum.org/guseulmoa/index.do">Daelim Museum : guseulmoa</a><br/>
 * <a href="https://www.seegene.co.kr/mobilestation">Seegene : Mobile Station</a><br/>
 * <a href="http://hanwhamna.com/">hanwha M&A</a><br/>
-
-<br/>
 <a href="http://mingdiseloper.dothome.co.kr/works.php">see other works</a>
 
 
