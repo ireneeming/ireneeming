@@ -22,9 +22,9 @@ Also I have an interested in Web Product Manager to make better products! and of
 👩‍🎓 Graduated Bachelor of Science in Information Technology (2016-2020) in SISC, Manila, Philippines  <br/>
 📧 minzigom@gmail.com <br/>
 
-### 💻Representative Website work
-* <a href="http://www.daelimmuseum.org/guseulmoa/index.do">Daelim Museum : guseulmoa</a><br/>
-* <a href="https://www.seegene.co.kr/mobilestation">Seegene : Mobile Station</a><br/>
+### 💻Career
+* 前 대림미술관 퍼블리셔 <a href="http://www.daelimmuseum.org/guseulmoa/index.do">Daelim Museum : guseulmoa</a><br/>
+* 前 (주)씨젠 외주 퍼블리셔 <a href="https://www.seegene.co.kr/mobilestation">Seegene : Mobile Station</a><br/>
 * <a href="http://hanwhamna.com/">hanwha M&A</a><br/>
 
 <a href="http://mingdiseloper.dothome.co.kr/works.php">see other works</a>
