@@ -21,7 +21,6 @@ The reason is that I just thought in order to make a good service, I needed to k
 <hr/>
 
 ### 👩Profile
-https://ireneeming.github.io/mingure/
 👶 1995-11-16 <br/>
 👩‍🎓 Graduated Bachelor of Science in Information Technology (2016-2020) in SISC, Manila, Philippines  <br/>
 📧 minzigom@gmail.com <br/>
