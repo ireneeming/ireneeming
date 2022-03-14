@@ -1,12 +1,12 @@
 🙋‍♀️Hello guys!
 I'm Minji, Seo. Front-End Developer using React.
 
-The first of my career started as a UI/UX Designer and Web publisher. Now I'm Studying React to be a Front-End Developer to make a good service.
+<!--The first of my career started as a UI/UX Designer and Web publisher. Now I'm Studying React to be a Front-End Developer to make a good service.
 Furthermore, I want to be a PM who create a good service and a good team culture in the future.
 
 Maybe, some of you guys are wondering why I want to be a FE developer. 
 The reason is that I just thought in order to make a good service, I needed to know how to create/develop the service first for accurate and active communication with group members.  
-
+-->
 
 
 #### ⌨Platforms & Languages
