@@ -30,7 +30,7 @@ The reason is that I just thought in order to make a good service, I needed to k
 * 前 (주)씨젠 외주 퍼블리셔 <a href="https://www.seegene.co.kr/mobilestation">Seegene : Mobile Station</a><br/>
 
 
-<a href="http://mingdiseloper.dothome.co.kr/works.php">see other works</a>
+<a href="https://aback-shock-0a7.notion.site/Hello-41aebcfdec394eef9b54a3a30e9620a2">see other works</a>
 
  
 
