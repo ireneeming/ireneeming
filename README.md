@@ -30,7 +30,7 @@
 👶 1995-11-16 <br/>
 👩‍🎓 Graduated Bachelor of Science in Information Technology (2016-2020) in SISC, Manila, Philippines  <br/>
 📧 minzigom@gmail.com <br/><br/>
-<a href="https://www.notion.so/Hello-76f56522c1e64c57a11af51dfd5c75be?pvs=4">SEE MORE HISTORY in Notion page</a>
+<a href="https://aback-shock-0a7.notion.site/Hello-76f56522c1e64c57a11af51dfd5c75be?pvs=4">SEE MORE HISTORY in Notion page</a>
 
 <!--
 ### 💻Career
