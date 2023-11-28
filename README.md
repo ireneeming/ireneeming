@@ -1,8 +1,11 @@
+# MINJI, SEO (FrontEnd Developer)
 
-## MINJI, SEO (FrontEnd Developer)
- 
+👶 1995-11-16 <br/>
+👩‍🎓 Graduated Bachelor of Science in Information Technology (2016-2020) in SISC, Manila, Philippines  <br/>
+📧 minzigom@gmail.com <br/><br/>
+<a href="https://aback-shock-0a7.notion.site/Hello-76f56522c1e64c57a11af51dfd5c75be?pvs=4">📍SEE MORE HISTORY in Notion page</a>
 
-
+ <hr/>
 #### ⌨ Platforms & Languages
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"> <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
@@ -24,13 +27,7 @@
 
 
  
-<hr/>
 
-### 👩 Profile
-👶 1995-11-16 <br/>
-👩‍🎓 Graduated Bachelor of Science in Information Technology (2016-2020) in SISC, Manila, Philippines  <br/>
-📧 minzigom@gmail.com <br/><br/>
-<a href="https://aback-shock-0a7.notion.site/Hello-76f56522c1e64c57a11af51dfd5c75be?pvs=4">SEE MORE HISTORY in Notion page</a>
 
 <!--
 ### 💻Career
