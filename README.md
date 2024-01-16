@@ -1,9 +1,10 @@
 # MINJI, SEO (FrontEnd Developer)
 
 👶 1995-11-16 <br/>
-👩‍🎓 Graduated Bachelor of Science in Information Technology (2016-2020) in SISC, Manila, Philippines  <br/>
+👩‍🎓 Southville International School and Colleges in Manila, Philippines - Bachelor of Science in Information Technology (2016-2020)<br/>
 📧 minzigom@gmail.com <br/><br/>
-<a href="https://aback-shock-0a7.notion.site/Hello-76f56522c1e64c57a11af51dfd5c75be?pvs=4">📍SEE MORE HISTORY in Notion page</a>
+
+[![github img](https://github.com/ireneeming/ireneeming/assets/63698668/874b1680-b844-4dc9-80fd-1c229fd77a1f)](https://mingure.notion.site/adced08acfa145e88a575cdc1995369b?pvs=4)
 
  <hr/>
  
