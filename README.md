@@ -1,4 +1,5 @@
 # MINJI, SEO (FrontEnd Developer)
+https://github.com/mingureee
 
 👶 1995-11-16 <br/>
 👩‍🎓 Southville International School and Colleges in Manila, Philippines - Bachelor of Science in Information Technology (2016-2020)<br/>
